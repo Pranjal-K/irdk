@@ -3,4 +3,4 @@
 /.settings/
 .classpath
 .project
-./WebContent/WEB-INF/keys.json
+/WebContent/WEB-INF/keys.json
